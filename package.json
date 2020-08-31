@@ -48,7 +48,7 @@
     "lodash": "^4.17.15",
     "marko": "^4.18.16",
     "mkdirp": "^0.5.1",
-    "preact": "^10.0.1",
+    "preact": "^10.4.7",
     "preact-render-to-string": "^5.0.7",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
