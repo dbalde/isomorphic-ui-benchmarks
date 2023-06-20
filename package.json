@@ -43,7 +43,7 @@
     "inferno": "^7.3.2",
     "inferno-hydrate": "^7.3.2",
     "inferno-server": "^7.3.2",
-    "lasso": "^3.3.1",
+    "lasso": "^4.0.0",
     "lasso-marko": "^2.4.8",
     "lodash": "^4.17.15",
     "marko": "^4.18.16",
@@ -64,7 +64,7 @@
     "vue-server-renderer": "^2.6.10",
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^4.0.0"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
