@@ -37,7 +37,7 @@
     "babel-plugin-transform-react-constant-elements": "^6.23.0",
     "benchmark": "^2.1.4",
     "browser-refresh-taglib": "^1.1.0",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "express": "^4.17.1",
     "format-number": "^3.0.0",
     "inferno": "^7.3.2",
